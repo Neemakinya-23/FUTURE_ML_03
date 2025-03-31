@@ -43,7 +43,10 @@ jupyter notebook My_chatbot.ipynb
 You: Where do you deliver?
 Bot: We deliver to most UK residential addresses.
 ```
-![Tesco Preview](Tesco_ grocery_chatbot.png)
+
+![Tesco Preview](Tesco_%20grocery_chatbot.png)
+
+
 
 ## Customization
 - Add more FAQs to improve chatbot knowledge.
